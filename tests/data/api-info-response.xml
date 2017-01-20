@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<appinfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="https://analysiscenter.veracode.com/schema/2.0/appinfo"
+         xsi:schemaLocation="https://analysiscenter.veracode.com/schema/2.0/appinfo https://analysiscenter.veracode.com/resource/2.0/appinfo.xsd"
+         appinfo_version="1.1" account_id="47406">
+    <application app_id="284174" app_name="libSaife" description="Saife Library" business_criticality="Very High"
+                 policy="Veracode Recommended Very High" teams="" origin="Internally Developed"
+                 industry_vertical="Software" app_type="Security" deployment_method="Not Specified"
+                 is_web_application="false" modified_date="2017-01-06T18:27:04-05:00" cots="false" vast="false"
+                 business_unit="Not Specified" tags="">
+        <customfield name="Custom 1" value=""/>
+        <customfield name="Custom 2" value=""/>
+        <customfield name="Custom 3" value=""/>
+        <customfield name="Custom 4" value=""/>
+        <customfield name="Custom 5" value=""/>
+        <customfield name="Custom 6" value=""/>
+        <customfield name="Custom 7" value=""/>
+        <customfield name="Custom 8" value=""/>
+        <customfield name="Custom 9" value=""/>
+        <customfield name="Custom 10" value=""/>
+    </application>
+</appinfo>
